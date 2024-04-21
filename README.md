@@ -1,6 +1,6 @@
-# Jifeng Chen's 5.1D: Containerisation of a simple web application using Docker
+# Jifeng Chen's 5.2D: Containerisation of a simple web application using Docker
 
-This is the Jifeng Chen's implementation of SIT323 5.1D
+This is the Jifeng Chen's implementation of SIT323 5.2D
 
 To utilize this demonstration, please follow the steps below:
 
